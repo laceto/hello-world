@@ -1,0 +1,20 @@
+---
+title: "libraries list"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## libraries
+
+dplyr <https://dplyr.tidyverse.org/articles/dplyr.html>  
+
+tidyr <https://tidyr.tidyverse.org/articles/tidy-data.html>  
+
+stringr <https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html>  
+
+ggplot2 <https://ggplot2.tidyverse.org/reference/index.html>  
+
+
